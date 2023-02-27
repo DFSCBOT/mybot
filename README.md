@@ -9,3 +9,8 @@ cd ~
 curl -sL https://github.com/DFSCBOT/mybot/raw/master/init.sh -o init.sh
 
 bash init.sh
+
+caminho da pasta:
+
+cd/superbot/
+
