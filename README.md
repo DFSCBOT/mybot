@@ -1,2 +1,2 @@
-i morreu.
-1
+Update
+git reset --hard origin/master
